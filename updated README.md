@@ -12,24 +12,40 @@ The online Bus Ticket reservation System in Java is a desktop application coded 
 Basic Information:
 
 
-Language used: Java,
-Coding Tool used: Eclipse IDE,
-Type: Desktop Application,
-Database used: Built-in array string generated.
+Language used: Java
+
+
+Coding Tool used: Eclipse IDE
+
+
+Type: Desktop Application
+
+
+Database used: Built-in array string generated
 
 
 About Bus Ticket reservation System:
 
 
-The Bus Ticket reservation System was built using only Java programming language. This application is a user-friendly kind of system that can easily fit to your needs. The application provide you a basic function that allow user to book the passenger seat for a bus ride. The transaction area is where the passenger pay the book bus seat. The system has function that will automatically calculate the total payment with an added discount percentage.
+The Bus Ticket reservation System was built using only Java programming language. This application is a user-friendly kind of system that can easily fit to your needs.The application provide you a basic function that allow user to book the passenger seat for a bus ride. The transaction area is where the passenger pay the book bus seat. The system has function that will automatically calculate the total payment with an added discount percentage.
 
 
 Features:
-Destination is already pre-coded,
-Display the List of Destination,
-Book a Passenger Seats,
-Automatically Calculate the billing process,
-Payment Transaction.
+
+
+Destination is already pre-coded
+
+
+Display the List of Destination
+
+
+Book a Passenger Seats
+
+
+Automatically Calculate the billing process
+
+
+Payment Transaction
 
 
 
