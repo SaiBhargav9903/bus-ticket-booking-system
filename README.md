@@ -1,7 +1,7 @@
 # bus-ticket-booking-system
 
 Introduction
-Theonline Bus Ticket reservation System in Java is a desktop application coded in a Java programming language.This project allow the user to store a to book a ticket for the passenger seats. The destination is already inputted in the system script so that you don't need to enter it anymore. This Bus Ticket reservation System is a simple project that can benefit students taking any computer related courses. This system provide convenient way to book passenger seats and track the available bus. This Bus Ticket reservation System in Java provide a simple coding techniques in Java programming.
+The online Bus Ticket reservation System in Java is a desktop application coded in a Java programming language.This project allow the user to store a to book a ticket for the passenger seats. The destination is already inputted in the system script so that you don't need to enter it anymore. This Bus Ticket reservation System is a simple project that can benefit students taking any computer related courses. This system provide convenient way to book passenger seats and track the available bus. This Bus Ticket reservation System in Java provide a simple coding techniques in Java programming.
 
 
 
