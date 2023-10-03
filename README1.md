@@ -1,6 +1,5 @@
 # bus-ticket-booking-system
 
-
 Introduction:
 
 
